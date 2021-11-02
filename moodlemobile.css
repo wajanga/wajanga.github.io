@@ -1,0 +1,4 @@
+ion-header ion-toolbar {
+    --core-header-toolbar-border-width: 2px; /* Use 0 to disable it */
+    --core-header-toolbar-border-color: green;
+}
